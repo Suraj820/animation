@@ -72,7 +72,7 @@ This project was inspired by the Flutter framework and the community of Flutter 
 
 ## Contact
 
-If you have any questions or suggestions regarding the **Animation** project, feel free to reach out to the author:
+If you have any questions or suggestions regarding the **Animation** project, feel free to reach out to me:
 
 - Author: Suraj Pal
 - GitHub: [Suraj820](https://github.com/Suraj820)
