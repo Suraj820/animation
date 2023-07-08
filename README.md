@@ -1,5 +1,3 @@
-# animation
-
 # Animation
 
 This Flutter project demonstrates the usage of `AnimatedContainer`, `Tween`, and `AnimationController` to create dynamic and visually appealing animations.
@@ -13,7 +11,7 @@ The **Animation** project showcases various animations implemented using Flutter
 - AnimatedContainer: Demonstrates how to animate container properties such as size, color, and shape using `AnimatedContainer`.
 - Tween: Shows how to interpolate between different values using `Tween` to create smooth transitions.
 - AnimationController: Utilizes `AnimationController` to control the duration, speed, and state of the animations.</br>
-- <img src ="screenshot.png"  height="500"/></br>
+ <img src ="screenshot.png"  height="500"/></br>
 
 
 ## Getting Started
@@ -77,4 +75,4 @@ This project was inspired by the Flutter framework and the community of Flutter 
 If you have any questions or suggestions regarding the **Animation** project, feel free to reach out to the author:
 
 - Author: Suraj Pal
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- GitHub: [Your GitHub Profile](https://github.com/Suraj820)
